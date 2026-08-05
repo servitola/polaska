@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Update feed read by Sparkle inside the Polaska app.
+  The URL of this file is baked into every shipped copy — it must never move.
+  An empty channel is valid and simply means "no update available".
+-->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Polaska</title>
+    <link>https://servitola.github.io/polaska/appcast.xml</link>
+    <description>Updates for Polaska</description>
+  </channel>
+</rss>
