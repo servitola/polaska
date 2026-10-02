@@ -9,5 +9,24 @@
     <title>Polaska</title>
     <link>https://servitola.github.io/polaska/appcast.xml</link>
     <description>Updates for Polaska</description>
+    <item>
+      <title>Polaska 0.1</title>
+      <pubDate>Fri, 02 Oct 2026 07:24:11 +0300</pubDate>
+      <sparkle:version>0.1</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+The first public build.
+
+- A glass tab strip pinned under every visible browser window, on any of the four edges.
+- Works with Chromium browsers (Vivaldi, Chrome, Edge, Brave, Arc, Opera) and with Zen and Firefox, through one extension.
+- Standard and spacious tab layouts.
+- Playback controls on tabs that play media.
+- English, Russian and Greek.
+
+Requires macOS 26 on Apple Silicon and the Polaska browser extension.
+]]></description>
+      <enclosure url="https://github.com/servitola/polaska/releases/download/v0.1/Polaska-0.1.dmg" sparkle:edSignature="2uzsX4y/Lrjc4QtzfP7ZckaTAT6wDATOxIm3ImSnVWoXgNjJSX+C4AyN9zZvzmKGlvUKfmAxEdZuQaoOkP/VDQ==" length="1636604" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
